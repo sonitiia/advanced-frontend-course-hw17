@@ -1,0 +1,30 @@
+.contact-list-wrapper {
+    margin: 16px;
+}
+
+.contacts, #input-search {
+    margin-bottom: 12px;
+
+}
+
+#input-search {
+    width: 100%;
+    padding: 8px 12px;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+#input-search:active:focus {
+    outline: none;
+}
+
+#input-search:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+}

@@ -1,0 +1,27 @@
+#contact-wrapper {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+
+}
+
+tr {
+    border-top: 1px solid #aaaa;
+}
+
+td {
+    text-align: left;
+    padding: 12px;
+}
+
+tbody td:nth-child(1) {
+    width: 30%;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
