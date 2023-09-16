@@ -2,14 +2,14 @@
     margin: 16px;
 }
 
-.contacts, #input-search {
+.contacts, #input-search, .checkbox-wrapper {
     margin-bottom: 12px;
 
 }
 
 #input-search {
     width: 100%;
-    padding: 8px 12px;
+    padding: 12px 16px;
     border-radius: 12px;
     background-color: rgba(255, 255, 255, 0.2);
     border: none;
@@ -27,4 +27,24 @@
 
 ::placeholder {
     color: rgba(255, 255, 255, 0.7);
+}
+
+.checkboxes {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 0px 12px;
+}
+
+.checkbox-wrapper {
+    display: flex;
+    gap: 8px;
+}
+
+input[type="checkbox"] {
+    border: 1px solid white;
+    border-radius: 0.15em;
+    background-color: #fff;
+    accent-color: pink;
 }

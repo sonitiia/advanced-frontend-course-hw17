@@ -15,7 +15,6 @@ const Contacts = [
         firstName: "Анонімний",
         lastName: "Анонімус",
         phone: "+380666666666",
-        gender: "no"
     },
     {
         firstName: "Лілія",

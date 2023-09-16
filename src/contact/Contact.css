@@ -15,10 +15,10 @@ td {
 }
 
 tbody td:nth-child(1) {
-    width: 30%;
+    width: 37px;
 }
 
-.contact-info {
+tbody td:nth-child(2) {
     display: flex;
     justify-content: center;
     text-align: center;
