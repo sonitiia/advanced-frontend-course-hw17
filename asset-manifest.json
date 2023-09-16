@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/advanced-frontend-course-hw17/static/css/main.adf57cf4.css",
+    "main.js": "/advanced-frontend-course-hw17/static/js/main.156d1537.js",
+    "index.html": "/advanced-frontend-course-hw17/index.html",
+    "main.adf57cf4.css.map": "/advanced-frontend-course-hw17/static/css/main.adf57cf4.css.map",
+    "main.156d1537.js.map": "/advanced-frontend-course-hw17/static/js/main.156d1537.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf57cf4.css",
+    "static/js/main.156d1537.js"
+  ]
+}
